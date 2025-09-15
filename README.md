@@ -110,7 +110,7 @@ Sao chép mã
 
 ## 📦 Thông tin thêm
 - **Tên công cụ:** Dot-Trick Generator + Mail Code Notifier  
-- **Phiên bản:** 1.0  
+- **Phiên bản:** 2.0  
 - **Tác giả:** Yisu  
 - **Ngôn ngữ:** Tiếng Việt / English  
 - **Loại file:** Ứng dụng GUI độc lập (.exe) 
