@@ -1,7 +1,7 @@
 # 📖 Dot-Trick Generator + Mail Code Notifier
 
 **Tác giả:** **Yisu**  
-**Phiên bản:** 1.0  
+**Phiên bản:** 2.0  
 
 ---
 
